@@ -152,7 +152,6 @@ Full steps: [`android/BUILD_AND_RUN.md`](android/BUILD_AND_RUN.md). In short:
 
 ## Team
 
-**Team Favela** · Saveetha Engineering College, Chennai
 
 | | |
 |---|---|
