@@ -99,7 +99,7 @@ notebooks/
   helpers/                         v2 baseline notebook, FP32 gate export cell
 kb/                       Knowledge base (38 classes × 6 languages) + how to edit it
 models/README.md          Where to get the Llama .pte and tokenizer (too large for git)
-docs/                     Figures, metrics JSON, benchmarks, technical report
+docs/                     Figures, metrics JSON, benchmarks
 ```
 
 ## Build and run
